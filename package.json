@@ -1,0 +1,11 @@
+{
+  "name": "@gauravsbagul/calculate-order-amount",
+  "version": "0.1.0",
+  "description": "Order Amount calculation with discount and packaging charges.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gaurav_Sunil_Bagul",
+  "license": "ISC"
+}
