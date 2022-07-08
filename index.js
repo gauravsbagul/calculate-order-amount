@@ -1,5 +1,5 @@
-const { SMALL_ORDER, MEDIUM_ORDER } = require('./constants/orderSizeOfPackaging')
-const { TAKEAWAY } = require('./constants/orderTypes')
+const { SMALL_ORDER, MEDIUM_ORDER } = require('./constants/orderPackagingSize')
+const { TAKEAWAY } = require('./constants/orderType')
 
 const getOrderAmountWithDiscount = (
   orderList,
